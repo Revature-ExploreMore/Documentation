@@ -1,4 +1,4 @@
-# Project3Frontend
+<h2>ExploreMore Startup</h2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
